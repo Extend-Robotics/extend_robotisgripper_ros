@@ -1,0 +1,15 @@
+[submodule "DynamixelSDK"]
+	path = DynamixelSDK
+	url = https://github.com/Extend-Robotics/DynamixelSDK.git
+[submodule "Gripper-Handler"]
+	path = Gripper-Handler
+	url = https://github.com/Extend-Robotics/Gripper-Handler.git
+[submodule "RH-P12-RN-A"]
+	path = RH-P12-RN-A
+	url = https://github.com/Extend-Robotics/RH-P12-RN-A.git
+[submodule "ROBOTIS-Framework"]
+	path = ROBOTIS-Framework
+	url = https://github.com/Extend-Robotics/ROBOTIS-Framework.git
+[submodule "ROBOTIS-Framework-msgs"]
+	path = ROBOTIS-Framework-msgs
+	url = https://github.com/Extend-Robotics/ROBOTIS-Framework-msgs.git
